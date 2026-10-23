@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81a9d535-2294-4c2c-bc9f-f7c246f9b0c0" name="Changes" comment="Сделал:&#10;      2 лабу 2 и 3 задание">
-      <change afterPath="$PROJECT_DIR$/Lr2.4_DudinSergey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lr3.1_DudinSergey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lr3.2_DudinSergey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lr3.3_DudinSergey.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,8 @@
     "Python.Lr2.3_DudinSergey.executor": "Run",
     "Python.Lr2.4_DudinSergey.executor": "Run",
     "Python.Lr3.1_DudinSergey.executor": "Run",
+    "Python.Lr3.2_DudinSergey.executor": "Run",
+    "Python.Lr3.3_DudinSergey.executor": "Run",
     "Python.lr1_DudinSergey.executor": "Run",
     "Python.lr2_DudinSergey.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791547076088</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Сделал:&#10;      2 лабу 2 и 3 задание">
+      <option name="closed" value="true" />
+      <created>1792753860232</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792753860232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
