@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81a9d535-2294-4c2c-bc9f-f7c246f9b0c0" name="Changes" comment="Сделал:&#10;      2 лабу 2 и 3 задание">
-      <change afterPath="$PROJECT_DIR$/Lr3.2_DudinSergey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lr3.3_DudinSergey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81a9d535-2294-4c2c-bc9f-f7c246f9b0c0" name="Changes" comment="Сделал:&#10;      2 лабу 2 и 3 задание" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
