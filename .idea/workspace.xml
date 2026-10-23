@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81a9d535-2294-4c2c-bc9f-f7c246f9b0c0" name="Changes" comment="Сделал:&#10;      подключил qtDisagner и импортировал его">
-      <change afterPath="$PROJECT_DIR$/Lr2.2_DudinSergey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lr2.3_DudinSergey.py" afterDir="false" />
+    <list default="true" id="81a9d535-2294-4c2c-bc9f-f7c246f9b0c0" name="Changes" comment="Сделал:&#10;      2 лабу 2 и 3 задание">
+      <change afterPath="$PROJECT_DIR$/Lr2.4_DudinSergey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lr3.1_DudinSergey.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lr2_DudinSergey.py" beforeDir="false" afterPath="$PROJECT_DIR$/lr2_DudinSergey.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Lr2.2_DudinSergey.executor": "Run",
     "Python.Lr2.3_DudinSergey.executor": "Run",
+    "Python.Lr2.4_DudinSergey.executor": "Run",
+    "Python.Lr3.1_DudinSergey.executor": "Run",
     "Python.lr1_DudinSergey.executor": "Run",
     "Python.lr2_DudinSergey.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,7 +96,9 @@
       <option name="presentableId" value="Default" />
       <updated>1790334294203</updated>
       <workItem from="1790334295263" duration="1061000" />
-      <workItem from="1791534801950" duration="5656000" />
+      <workItem from="1791534801950" duration="9075000" />
+      <workItem from="1792273106090" duration="1530000" />
+      <workItem from="1792752903199" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="Сделал:&#10;      первый комит">
       <option name="closed" value="true" />
@@ -121,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791543275675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Сделал:&#10;      2 лабу 2 и 3 задание">
+      <option name="closed" value="true" />
+      <created>1791547076088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791547076088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,12 +153,14 @@
     <MESSAGE value="Сделал:&#10;      первый комит" />
     <MESSAGE value="Сделал:&#10;      добавил 3 print с текущей датой" />
     <MESSAGE value="Сделал:&#10;      подключил qtDisagner и импортировал его" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал:&#10;      подключил qtDisagner и импортировал его" />
+    <MESSAGE value="Сделал:&#10;      2 лабу 2 и 3 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал:&#10;      2 лабу 2 и 3 задание" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$lr2_DudinSergey.coverage" NAME="lr2_DudinSergey Coverage Results" MODIFIED="1791544043556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$lr2_DudinSergey.coverage" NAME="lr2_DudinSergey Coverage Results" MODIFIED="1791547317848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$Lr2_2_DudinSergey.coverage" NAME="Lr2.2_DudinSergey Coverage Results" MODIFIED="1791546074384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$Lr2_3_DudinSergey.coverage" NAME="Lr2.3_DudinSergey Coverage Results" MODIFIED="1791546875248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$Lr2_3_DudinSergey.coverage" NAME="Lr2.3_DudinSergey Coverage Results" MODIFIED="1791547528867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$lr1_DudinSergey.coverage" NAME="lr1_DudinSergey Coverage Results" MODIFIED="1791543399422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_PythonFullStackDudinSergey$Lr2_4_DudinSergey.coverage" NAME="Lr2.4_DudinSergey Coverage Results" MODIFIED="1791549937623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
